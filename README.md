@@ -1,9 +1,9 @@
 ![Header](./header-image.png)
 
-# Hi ,I am Bhanu priya! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi ,I am Aarjav! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
-![](https://komarev.com/ghpvc/?username=Bhanupriya-art&color=blue)<br>
+![](https://komarev.com/ghpvc/?username=jainaarjav07&color=blue)<br>
 <img align="right" alt="Coding" width="370px" height = "370px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" /><br>
 
 ### A passionate and enthusiast programmer<br>
@@ -11,15 +11,14 @@
 - 👨‍🏭 I’m currently pursuing **B.Tech CSE From Lovely Professional University** <br>
 - 🏫 I’m currently learning **Data Structures And MERN Stack Development** <br>
 - 🙌 I’m looking to collaborate on **Web Projects** <br>
-- 🤔 I’m looking for help with **Model Training**<br>
-- 🥅 Upcoming Goals: **Contribute to open source and learn DSA & Development** <br>
+ - 🥅 Upcoming Goals: **Contribute to open source and learn DSA & Development** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-bhanupriya086-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanupriya086/)](https://www.linkedin.com/in/bhanupriya086/) 
-[![Instagram Badge](https://img.shields.io/badge/-@bhannuuu_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhannuuuu_)](https://www.instagram.com/bhannuuuu_) 
+[![Linkedin Badge](https://img.shields.io/badge/-jainaarjav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainaarjav/)](https://www.linkedin.com/in/jainaarjav/) 
+[![Instagram Badge](https://img.shields.io/badge/-@jn_aarjav_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jn_aarjav)](https://www.instagram.com/jn_aarjav) 
 ### Languages
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
@@ -42,14 +41,14 @@
 
 
 <br>
-<a href="https://github.com/Bhanupriya-art">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhanupriya-art&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<a href="https://github.com/jainaarjav">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainaarjav&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bhanupriya-art&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jainaarjav&layout=compact&theme=blue-green" />
 </a>
 <br>
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhanupriya-art)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav)](https://git.io/streak-stats)
